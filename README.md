@@ -1,29 +1,14 @@
 # stock-trader
 
+## A simple mock stock trading app developed to help push my knowledge of VueJS, and animations, props, routing, Vuex, and using Firebase.
+
+### You can see a working version of it here
+[VueJS Stock Trader]('https://stock-trader-vuejs-app.herokuapp.com/).
+
+-Disclaimer: I do not have multiple user access for it yet, so it is running off one shared database, so whatever information you save, will reflect on the next person who runs the app.
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
